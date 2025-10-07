@@ -5,4 +5,4 @@
 |clorisczy  | Zeyi Cai | zcai25@myseneca.ca | 124719253 | 
 |hyunwoocha123 | Hyunwoo Cha  | hcha10@myseneca.ca | 119945251 |
 |stevencuongnguyen | Cuong Nguyen | cnguyen91@myseneca.ca | 139578249| 
-|ramanpreetkaur244 | Raman Preetkaur | ramanpreet-kaur42@myseneca.ca |148150246| 
+|ramanpreetkaur244 | Ramanpreet Kaur | ramanpreet-kaur42@myseneca.ca |148150246| 
