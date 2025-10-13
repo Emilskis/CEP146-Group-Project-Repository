@@ -9,14 +9,14 @@ This folder will be used to document this script.
 
 **- Cyberattacks can have devastating effects that can be felt worldwide**
 
-**- One of the biggest and most relevant global attacks was the "WannaCry" attack of 2017
+**- One of the biggest and most relevant global attacks was the "WannaCry" attack of 2017**
 
 ## Script
 
-As years and decades pass, technology advances but so does the destructive power and effect of cyberattacks.      
+As years and decades pass, technology advances but so does the destructive power of cyberattacks.      
 
 When looking at some of the most destructive and harmful cyberattacks in recent history, we only need to go back a couple of years.
-One of of the most devastating attacks in recent history was the "WannaCry" attack of May 2017.
+One of of the most devastating attacks recently was the "WannaCry" attack of May 2017.
 
 The WannaCry attack infected users and large organizations globally with ransomware. This attack was instigated by a group known as the Shadow Brokers.
 The result of this attack impacted 150 countries with various sectors such as transport, banking, and healthcare being majorly affected.
